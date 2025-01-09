@@ -1,4 +1,4 @@
-# Speech-Recognition-Exercise
+# Building a Speech Recognition System using Python and the Google Gloud Platform (GCP)
 ![Speech Recognition Image](speech_recognition_image.png)
 
 This project delves into the realm of speech recognition, aiming to convert spoken language into written text. By leveraging various libraries and technologies, the project transcribes audio from diverse sources and applies a range of recognition engines.
